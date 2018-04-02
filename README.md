@@ -1,4 +1,4 @@
-# Upload Formdata
+﻿# Upload Formdata
 
 ## 功能 ：
 * 多图上传
@@ -24,3 +24,19 @@
 
 * 8 : 在点击遮布罩实现删除时候，对PicArray 进行splice操作即可，删除了PicArray中的图片，同时也要删除filesArray中的图片，不然只是前端的删除，实际上还是把这张图片传到后端去了哦~
 
+# 页面展示
+
+![Image](https://github.com/PDKSophia/upload-formdata/raw/master/images/a.gif)
+
+# 其他信息
+
+【重要的不是copy代码，而是理解思路】
+
+其他演示地址 ： http://www.pengdaokuan.cn/DuApp/#/circle/send
+
+
+免费开源使用。
+
+版权所有Copyright © 2018 by PDK (https://github.com/PDKSophia)
+
+All rights reserved。
